@@ -23,7 +23,7 @@ if (isset($_POST['send'])) {
             $errorEmail = true;
         elseif (preg_match($regexname,$name) && preg_match($regexsubject,$sujet) && preg_match($regexmess,$mess)) :
             echo "<span class='success'> Message envoyé </span>" ;
-            mail('cecen.m@codeur.online', 'Envoi depuis la page Contact', $mess, $headers);
+            mail('mickael.cecen@gmail.com', 'Envoi depuis la page Contact', $mess, $headers);
         else :
             echo "<span class='error'>Les '<' et '>' sont interdits</span>";
         endif;
