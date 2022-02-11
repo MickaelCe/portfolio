@@ -12,7 +12,7 @@
 
             <nav>
                 <ul id ="reseauxall">
-                    <li class ="reseaux4"><a href="form.php" id="manual-ajax"><i class="fas fa-envelope-square fa-3x " style="color: #EFAC43;" ></i></a></li>
+                    <li class ="reseaux4"><a href="form.php" id="manual-ajax"><i class="fas fa-envelope-square fa-3x " style="color: #BA3500;" ></i></a></li>
                     <li class ="reseaux3"><a href="https://github.com/MickaelCe" target="_blank"><i class="fab fa-github-square fa-3x" style="color: #BA3500;"></i></a></li>
                     <li class ="reseaux5"><a href="https://www.linkedin.com/in/mickaelcecen/" target="_blank"><i class="fab fa-linkedin fa-3x" style="color: #BA3500;"></i></a></li>
                 </ul>
