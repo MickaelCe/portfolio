@@ -1,42 +1,10 @@
 <div id="workwork">
-         <div id ="javascript">
-        <svg width="178" height="178" viewBox="0 0 178 178" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 0H178V178H2.5L0 0Z" fill="none"/>
-            <path d="M46.7344 54.9375H60.7969V102.188C60.7969 106.531 59.8281 110.375 57.8906 113.719C55.9844 117.031 53.2812 119.594 49.7812 121.406C46.2812 123.219 42.3281 124.125 37.9219 124.125C30.7031 124.125"/>
-            <path d="M108.234 105.281C108.234 102.625 107.297 100.594 105.422 99.1875C103.547 97.75 100.172 96.25 95.2969 94.6875C90.4219 93.0938 86.5625 91.5312 83.7188 90C75.9688 85.8125 72.0938 80.1719 72.0938"/>           
-            <path id="barre" d="M138 38H163V139H138V38Z" fill="white"/>
-        </svg>
-        </div>
-
-
         <div id ="sun">
-        <svg width="194" height="194" viewBox="0 0 194 194" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#clip0)">
-            <path id ="couronne" d="M191.641 104.53C185.923 100.441 176.673 94.1512 164.56 86.9913C162.062 85.5147 161.116 82.3812 162.365 79.7618C169.441 64.9159 173.561 50.8069 175.652 42.327C176.623 38.3868 173"/>
-            <path d="M97 150.843C126.736 150.843 150.843 126.736 150.843 97C150.843 67.2636 126.736 43.1575 97 43.1575C67.2636 43.1575 43.1575 67.2636 43.1575 97C43.1575 126.736 67.2636 150.843 97 150.843Z" fill=""/>            
-            <path d="M73.6859 111.451C78.4371 111.451 82.2886 108.384 82.2886 104.601C82.2886 100.817 78.4371 97.7502 73.6859 97.7502C68.9348 97.7502 65.0833 100.817 65.0833 104.601C65.0833 108.384 68.9348 111.451"/>           
-            <path d="M120.314 111.451C125.065 111.451 128.917 108.384 128.917 104.601C128.917 100.817 125.065 97.7502 120.314 97.7502C115.563 97.7502 111.711 100.817 111.711 104.601C111.711 108.384 115.563 111.451"/>           
-            <path d="M97.0001 102.941C94.3295 102.941 91.7897 101.784 90.0327 99.7679C89.0017 98.5846 89.1249 96.7897 90.3082 95.7583C91.4911 94.7273 93.2864 94.8505 94.3178 96.0338C94.9953 96.8113 95.9732 97.2573"/>            
-            <path opacity="0.15" d="M79.8829 45.9359C58.5376 53.0881 43.1562 73.2471 43.1562 97C43.1562 126.737 67.263 150.844 97 150.844C114.879 150.844 130.719 142.127 140.512 128.715C60.797 138.694 59.9494 71.5"/>            
-            <path d="M55.8701 86.0826L57.0375 94.6395C57.6362 99.0276 61.3844 102.299 65.813 102.299H76.4391C80.9287 102.299 84.7083 98.9393 85.235 94.4807L85.9939 88.0503C86.1322 86.8795 87.125 85.997 88.3041 85.0"/>
-            </g>
-            <defs>
-            <clipPath id="clip0">
-            <rect width="194" height="194" fill="white"/>
-            </clipPath>
-            </defs>
-        </svg>
+            <img src="https://raw.githubusercontent.com/MickaelCe/img/main/gamergate.PNG" alt="Image du projet">
         </div>
-
-
-
         <h2 id="work2">PROJETS<span class="underline2"></span></h2>
-
 </div>
 
-<a href="https://mickaelc.promo-66.codeur.online/CoolWidget/" target="_blank"><div id="hoversun" ><h3>Projet Widget - Utilisation d'une API météo et intégration de divers widgets utilitaires : </h3></div></a>
-
-<a href="https://mickaelc.promo-66.codeur.online/Javascript/" target="_blank"><div id="hoverjavascript"><h3>Projet Javascript - Présentation des outils de base de Javascript : </h3></div></a>
-
+<a href="http://www.raid-sun.com/" target="_blank"><div id="hoversun" ><h3>Gamergate - une inspiration netflix : </h3></div></a>
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="js/script.js"></script>
